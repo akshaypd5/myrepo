@@ -1,2 +1,2 @@
 echo "Hello from akshay"
-useradd uaser123
+sudo useradd uaser123
